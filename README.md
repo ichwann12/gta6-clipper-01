@@ -1,6 +1,10 @@
 # GTA 6 Is Insane — Vice City Like Never Before
 
-My entry for the make.fun bounty "Clip GTA 6 for the most YouTube views".
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/ichwann12/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/ichwann12/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
+My entry for the make.fun bounty "Clip GTA 6 for the most YouTube views" — bounty page: https://make.fun/bounty/gta6-clipper-01
 
 The clip is 28 seconds: 20 seconds of the best of GTA VI Trailer 2 — a sunset over the water in Leonida, then the neon streets of Vice City — cut vertical (1080x1920) with ffmpeg, with a "GTA 6 IS INSANE" hook up top. Then an end card pitches make.fun: make clips like this with AI and earn money on make.fun.
 
